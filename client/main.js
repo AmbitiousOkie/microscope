@@ -1,1 +1,0 @@
-Meteor.subscribe('posts'); //Allows the client to receive the published materials

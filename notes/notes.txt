@@ -4,3 +4,4 @@ Set the subscription of the published data in main.js
 Install Iron router - "meteor add iron:router"
 Install spiderable
 /lib always loads first, but runs on both client & server
+add a loading template, such as spin {{>spinner}}
