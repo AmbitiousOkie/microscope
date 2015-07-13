@@ -1,0 +1,6 @@
+Turn off auto-publish - "meteor remove autopublish"
+Setup the published data in the posts_list.js
+Set the subscription of the published data in main.js
+Install Iron router - "meteor add iron:router"
+Install spiderable
+/lib always loads first, but runs on both client & server
