@@ -14,3 +14,4 @@ Below is that template
 	    return a.hostname;
 	  }
 	});
+Default is insecure, run "meteor remove insecure"
