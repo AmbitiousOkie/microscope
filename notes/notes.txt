@@ -15,3 +15,6 @@ Below is that template
 	  }
 	});
 Default is insecure, run "meteor remove insecure"
+{{#if currentUser}} allows spacebars to check if a user
+secure/authenticate calls need to be handled by the server, not the client
+submit data is kept in /lib/posts.js, but is only processed by the server
